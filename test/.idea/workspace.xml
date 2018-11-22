@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Project" targetName="test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4adb12fb-2fd7-4190-8ef5-f8945f03ce96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/Channel/Notifier.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/Channel/Request.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/Channel/UnixStreamSocket.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/DepLibSRTP.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/DepLibUV.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/DepOpenSSL.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/LogLevel.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/Logger.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/MediaSoupError.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Codecs/Codecs.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Codecs/H264.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Codecs/PayloadDescriptorHandler.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Codecs/VP8.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Consumer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/ConsumerListener.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/DtlsTransport.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/IceCandidate.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/IceServer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/NackGenerator.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Parameters.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/PlainRtpTransport.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Producer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/ProducerListener.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/Bye.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/CompoundPacket.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/Feedback.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackItem.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPs.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsAfb.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsFir.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsLei.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsPli.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsRemb.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsRpsi.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsSli.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsTst.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackPsVbcm.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackRtp.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackRtpEcn.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackRtpNack.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackRtpSrReq.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackRtpTllei.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/FeedbackRtpTmmb.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/Packet.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/ReceiverReport.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/Sdes.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RTCP/SenderReport.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/AimdRateControl.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/BandwidthUsage.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/InterArrival.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/OveruseDetector.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/OveruseEstimator.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/RateControlInput.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/RateControlRegion.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/RemoteBitrateEstimator.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/RemoteBitrateEstimatorAbsSendTime.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RemoteBitrateEstimator/RemoteBitrateEstimatorSingleStream.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Router.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpDataCounter.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpDictionaries.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpListener.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpMonitor.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpPacket.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpStream.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpStreamRecv.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/RtpStreamSend.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/SeqManager.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/SrtpSession.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/StunMessage.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/TcpConnection.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/TcpServer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/Transport.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/TransportTuple.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/UdpSocket.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/RTC/WebRtcTransport.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/Settings.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/Utils.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/Worker.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/common.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/handles/SignalsHandler.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/handles/TcpConnection.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/handles/TcpServer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/handles/Timer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/handles/UdpSocket.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../include/handles/UnixStreamSocket.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Channel/Notifier.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Channel/Request.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Channel/UnixStreamSocket.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/DepLibSRTP.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/DepLibUV.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/DepOpenSSL.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Logger.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/Codecs/Codecs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/Codecs/H264.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/Codecs/VP8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/Consumer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/DtlsTransport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/IceCandidate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/IceServer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/NackGenerator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/PlainRtpTransport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/Producer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/Bye.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/CompoundPacket.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/Feedback.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsAfb.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsFir.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsLei.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsPli.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsRemb.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsRpsi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsSli.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsTst.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackPsVbcm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackRtp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackRtpEcn.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackRtpNack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackRtpSrReq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackRtpTllei.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/FeedbackRtpTmmb.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/Packet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/ReceiverReport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/Sdes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RTCP/SenderReport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RemoteBitrateEstimator/AimdRateControl.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RemoteBitrateEstimator/InterArrival.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RemoteBitrateEstimator/OveruseDetector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RemoteBitrateEstimator/OveruseEstimator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RemoteBitrateEstimator/RemoteBitrateEstimatorAbsSendTime.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RemoteBitrateEstimator/RemoteBitrateEstimatorSingleStream.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/Router.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDataCounter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/Media.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/Parameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtcpFeedback.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtcpParameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpCodecMimeType.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpCodecParameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpEncodingParameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpFecParameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpHeaderExtensionParameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpHeaderExtensionUri.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpParameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpDictionaries/RtpRtxParameters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpListener.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpMonitor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpPacket.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpStream.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpStreamRecv.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/RtpStreamSend.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/SeqManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/SrtpSession.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/StunMessage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/TcpConnection.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/TcpServer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/Transport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/TransportTuple.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/UdpSocket.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RTC/WebRtcTransport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Settings-win.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Settings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Utils/Crypto.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Utils/File.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Utils/IP.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Utils/IP.rl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Utils/compile_IP.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Utils/grammar.rl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Worker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/handles/SignalsHandler.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/handles/TcpConnection.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/handles/TcpServer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/handles/Timer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/handles/UdpSocket.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/handles/UnixStreamSocket.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main-win.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main.cpp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1129528993">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="5" />
+          <entry key="hpp" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="73" />
+          <entry key="txt" value="206" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="206" />
+          <entry key="ObjectiveC" value="73" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+              <folding>
+                <element signature="e#47#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="48" />
+    <option name="y" value="29" />
+    <option name="width" value="2513" />
+    <option name="height" value="1412" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="test">
+      <envs>
+        <env name="LD_LIBRARY_PATH" value="../../x64-ubuntu18-gcc/lib" />
+      </envs>
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4adb12fb-2fd7-4190-8ef5-f8945f03ce96" name="Default Changelist" comment="" />
+      <created>1542874270360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542874270360</updated>
+      <workItem from="1542874272847" duration="1761000" />
+      <workItem from="1542878778729" duration="1086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2847000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="31" width="2525" height="1416" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25172552" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293556" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3293556" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3293556" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../x64-ubuntu18-gcc/include/RTC/DtlsTransport.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../worker-2.4.3/src/Settings.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../x64-ubuntu18-gcc/include/Worker.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../worker-2.4.3/src/Worker.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../worker-2.4.3/src/DepLibUV.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+          <folding>
+            <element signature="e#47#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
